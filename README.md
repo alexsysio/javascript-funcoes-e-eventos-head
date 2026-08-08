@@ -8,8 +8,8 @@
 
 ### O que o JavaScript pode fazer?
 
-<a href="https://github.com/user-attachments/assets/1e771101-cd34-451d-814d-5b2af8c65afc">
-  <img width="100%" alt="o-que-o-javascript-pode-fazer" src="https://github.com/user-attachments/assets/1e771101-cd34-451d-814d-5b2af8c65afc" />
+<a href="https://github.com/user-attachments/assets/009c8b8a-502f-4a4f-b778-b5bd7a6a98a6">
+  <img width="100%" alt="o-que-o-javascript-pode-fazer" src="https://github.com/user-attachments/assets/009c8b8a-502f-4a4f-b778-b5bd7a6a98a6" />
 </a>
 
 &nbsp;
