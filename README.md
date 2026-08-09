@@ -6,7 +6,7 @@
 
 &nbsp;
 
-### O que o JavaScript pode fazer? | JavaScript pode alterar o conteúdo HTML
+### O que o JavaScript pode fazer? | JavaScript pode alterar o conteúdo HTML - Um parágrafo
 
 <a href="https://github.com/user-attachments/assets/009c8b8a-502f-4a4f-b778-b5bd7a6a98a6">
   <img width="100%" alt="o-que-o-javascript-pode-fazer" src="https://github.com/user-attachments/assets/009c8b8a-502f-4a4f-b778-b5bd7a6a98a6" />
@@ -14,7 +14,7 @@
 
 &nbsp;
 
-### JavaScript pode alterar o conteúdo HTML | Demonstração do JavaScript na cabeça da página
+### JavaScript pode alterar o conteúdo HTML | Parágrafo alterado
 
 <a href="https://github.com/user-attachments/assets/4f237fce-ca8b-4375-a08f-e65533055234">
   <img width="100%" alt="javascript-pode-alterar-o-conteudo-html" src="https://github.com/user-attachments/assets/4f237fce-ca8b-4375-a08f-e65533055234" />
