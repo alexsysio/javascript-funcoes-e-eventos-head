@@ -6,7 +6,7 @@
 
 &nbsp;
 
-### O parágrafo normal escrito Um parágrafo
+### Demonstração
 
 <a href="https://github.com/user-attachments/assets/d3a778e5-a78f-4ac4-b414-0f12fb11ac08">
   <img width="100%" alt="um-paragrafo" src="https://github.com/user-attachments/assets/d3a778e5-a78f-4ac4-b414-0f12fb11ac08" />
