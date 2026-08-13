@@ -1,23 +1,23 @@
-### HTML JavaScript | Demonstração do JavaScript na cabeça da página
+### JavaScript pode alterar o parágrafo
 
-<a href="https://github.com/user-attachments/assets/93da947c-32eb-4648-b3bd-d807cbfee321">
-  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/93da947c-32eb-4648-b3bd-d807cbfee321" />
+<a href="https://github.com/user-attachments/assets/54626a50-d037-481e-98e0-11ddae460ce2">
+  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/54626a50-d037-481e-98e0-11ddae460ce2" />
 </a>
 
 &nbsp;
 
 ### O que o JavaScript pode fazer? | JavaScript pode fazer funcões e eventos | Um parágrafo
 
-<a href="https://github.com/user-attachments/assets/009c8b8a-502f-4a4f-b778-b5bd7a6a98a6">
-  <img width="100%" alt="o-que-o-javascript-pode-fazer" src="https://github.com/user-attachments/assets/009c8b8a-502f-4a4f-b778-b5bd7a6a98a6" />
+<a href="https://github.com/user-attachments/assets/d3a778e5-a78f-4ac4-b414-0f12fb11ac08">
+  <img width="100%" alt="um-paragrafo" src="https://github.com/user-attachments/assets/d3a778e5-a78f-4ac4-b414-0f12fb11ac08" />
 </a>
 
 &nbsp;
 
 ### JavaScript pode alterar o conteúdo HTML | JavaScript pode fazer funcões e eventos | Parágrafo alterado
 
-<a href="https://github.com/user-attachments/assets/4f237fce-ca8b-4375-a08f-e65533055234">
-  <img width="100%" alt="javascript-pode-alterar-o-conteudo-html" src="https://github.com/user-attachments/assets/4f237fce-ca8b-4375-a08f-e65533055234" />
+<a href="https://github.com/user-attachments/assets/ea56812e-715a-4ece-8da2-a3f9287983bd">
+  <img width="100%" alt="paragrafo-alterado" src="https://github.com/user-attachments/assets/ea56812e-715a-4ece-8da2-a3f9287983bd" />
 </a>
 
 &nbsp;
